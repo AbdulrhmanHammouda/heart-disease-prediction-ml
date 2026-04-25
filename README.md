@@ -59,7 +59,13 @@ The study covers:
 heart-disease-prediction-ml/
 │
 ├── README.md
+├── environment.yml
+├── requirements.txt
+├── .gitignore
 ├── Project_2_Simple.ipynb
+│
+├── src/
+│   └── config.py
 │
 ├── data/
 │   └── heart.csv
